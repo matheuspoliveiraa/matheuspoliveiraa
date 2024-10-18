@@ -43,9 +43,12 @@
 [![Life is Strange](https://img.shields.io/badge/Life%20is%20Strange-1E90FF?style=for-the-badge&logo=life-is-strange&logoColor=white)](https://www.lifeisstrange.com)
 [![The Last of Us](https://img.shields.io/badge/The%20Last%20of%20Us-0E5E6C?style=for-the-badge&logo=the-last-of-us&logoColor=white)](https://www.thelastofus.playstation.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=dark)](https://github.com/matheuspoliveiraa)
+## Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspoliveiraa&layout=compact&theme=radical)](https://github.com/seuusuario)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuspoliveiraa&show_icons=true&theme=dark)
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuspoliveiraa&show_icons=true&theme=radical)
+
 
 
 
