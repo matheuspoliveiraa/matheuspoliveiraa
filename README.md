@@ -51,7 +51,8 @@
 
 <img src="https://media.giphy.com/media/j5oP7zSilio3SewxAA/giphy.gif?cid=790b7611cgez05fmbv48vlihp0nt8t39rs2vrgjbgdv25p5u&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Cool GIF" width="500"/>
 
-<img src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif" alt="Cropped GIF" width="500"/>
+<img src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif" alt="Cropped GIF" width="300"/>
+
 
 
 
