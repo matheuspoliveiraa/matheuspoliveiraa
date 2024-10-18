@@ -49,7 +49,8 @@
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuspoliveiraa&show_icons=true&theme=radical)
 
-![Cool GIF](https://media.giphy.com/media/j5oP7zSilio3SewxAA/giphy.gif?cid=790b7611cgez05fmbv48vlihp0nt8t39rs2vrgjbgdv25p5u&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+<img src="https://media.giphy.com/media/j5oP7zSilio3SewxAA/giphy.gif?cid=790b7611cgez05fmbv48vlihp0nt8t39rs2vrgjbgdv25p5u&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Cool GIF" width="500"/>
+
 
 
 
