@@ -4,6 +4,8 @@
 
 🎓 I'm taking this course at SENAC Tatuapé.
 
+📱 Currently Working At: Claro SA
+
 🗺 I live in São Paulo, SP - Brazil.
 
 ### 📫 Contacts:
