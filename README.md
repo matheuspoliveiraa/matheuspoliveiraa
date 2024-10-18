@@ -6,7 +6,7 @@
 
 🗺 I live in São Paulo, SP - Brazil.
 
-### 📫 Como me encontrar:
+### 📫 Contacts:
 
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/5511959390044) 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusoliveira353jr@gmail.com)
