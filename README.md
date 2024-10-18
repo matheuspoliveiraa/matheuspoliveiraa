@@ -1,10 +1,10 @@
-## Hi 👋 My name is Matheus Pinheiro
+## Hello World! Welcome to my technology space. 👋 My name is Matheus Pinheiro
 
-🌱 I am currently studying in the Computer Technician. In this course I will take classes on networks and infrastructure, operating systems and development.
+🌱 I am currently studying to become a Computer Technician. In this course, I am learning about networks and infrastructure, operating systems, and development.
 
-🎓 I'm learning this course at SENAC Tatuapé
+🎓 I'm taking this course at SENAC Tatuapé.
 
-🗺 I live in São Paulo, SP - Brazil
+🗺 I live in São Paulo, SP - Brazil.
 
 <!--
 **matheuspoliveiraa/matheuspoliveiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
