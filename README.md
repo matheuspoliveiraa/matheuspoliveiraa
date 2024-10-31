@@ -55,5 +55,5 @@
 
 <img src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif" alt="Cropped GIF" width="300"/>
 
-![Snake animation](https://github.com/matheuspoliveiraa/matheuspoliveiraa/blob/output/github-contribution-grid-snake.svg)
+
 
