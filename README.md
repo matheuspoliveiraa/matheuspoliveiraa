@@ -54,7 +54,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheuspoliveiraa&theme=dark" alt="matheuspoliveiraa"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/master/media/snake.gif" alt="Cobra do GitHub" width="300"/>
+![Cobra do GitHub](https://raw.githubusercontent.com/Platane/snk/master/media/snake.gif)
 
 
 
