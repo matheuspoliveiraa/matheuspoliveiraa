@@ -1,10 +1,9 @@
 name: Generate Snake
 
 on:
-  # O workflow será executado automaticamente
   schedule: 
     - cron: "0 0 * * *"  # Executa todos os dias à meia-noite
-  workflow_dispatch:  # Permite executar o workflow manualmente no GitHub
+  workflow_dispatch:
 
 jobs:
   build:
