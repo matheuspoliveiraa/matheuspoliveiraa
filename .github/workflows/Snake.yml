@@ -10,6 +10,9 @@ on:
 # Permite executar na na lista de Actions (utilizado para testes de build).
   workflow_dispatch:
 
+  permissions:
+  contents: write  # Permite que o bot faça push para o repositório
+  
 # Regras
 jobs:
   build:
