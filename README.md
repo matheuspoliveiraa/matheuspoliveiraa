@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/l1J9KU2KmTwzptMD6/giphy.gif" alt="Descrição do GIF" width="100" style="object-fit: cover;">
+<img src="https://media.giphy.com/media/l1J9KU2KmTwzptMD6/giphy.gif" alt="Descrição do GIF" width="200" style="object-fit: cover;">
 
 ## Hello World! Welcome to my technology space. 👋 My name is Matheus Pinheiro
 
