@@ -1,3 +1,5 @@
+![GIF do Giphy](https://media.giphy.com/media/l1J9KU2KmTwzptMD6/giphy.gif)
+
 ## Hello World! Welcome to my technology space. 👋 My name is Matheus Pinheiro
 
 🌱 I am currently studying to become a Computer Technician. In this course, I am learning about networks and infrastructure, operating systems, and development.
