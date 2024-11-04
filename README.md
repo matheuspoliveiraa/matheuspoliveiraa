@@ -58,7 +58,7 @@
 
 <img src="https://media.tenor.com/A-xepNszV9YAAAAi/ai-bot.gif" alt="Cropped GIF" width="300"/>
 
-![snake gif](https://github.com/matheuspoliveiraa/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
