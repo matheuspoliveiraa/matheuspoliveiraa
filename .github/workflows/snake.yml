@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v3  # Atualizei para v3 para evitar problemas de compatibilidade de Node.js
       - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
