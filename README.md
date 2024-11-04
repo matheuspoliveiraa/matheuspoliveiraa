@@ -54,10 +54,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheuspoliveiraa&theme=dark" alt="matheuspoliveiraa"/>
 </div>
 
-# Meu Projeto
-
-Aqui está um GIF divertido de programação:
-
 <img src="https://media.giphy.com/media/GY6Zmupsc3ilQbsjbL/giphy.gif" alt="Hacker GIF" width="300"/>
 
 
