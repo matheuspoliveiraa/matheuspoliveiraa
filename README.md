@@ -54,8 +54,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheuspoliveiraa&theme=dark" alt="matheuspoliveiraa"/>
 </div>
 
-<img src="https://media.giphy.com/media/l0IykZc2i8kq22zGo/giphy.gif" alt="Cobra do GitHub" width="300"/>
-
+<img src="https://media.giphy.com/media/bF2lNDMMGf2yYdjl5W/giphy.gif" alt="Cobra do GitHub" width="300"/>
 
 <img src="https://media.giphy.com/media/GY6Zmupsc3ilQbsjbL/giphy.gif" alt="GIF da Trybe" width="300"/>
 
