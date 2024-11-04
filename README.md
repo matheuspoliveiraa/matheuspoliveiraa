@@ -55,6 +55,7 @@
 </div>
 
 <img src="https://media.giphy.com/media/GY6Zmupsc3ilQbsjbL/giphy.gif" alt="Hacker GIF" width="300"/>
+![Rã Programadora](https://tenor.com/pt-BR/view/programming-computer-frog-nerd-frog-smart-fog-csharp-gif-25385487)
 
 </div>
 
