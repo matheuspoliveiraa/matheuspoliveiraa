@@ -1,5 +1,3 @@
-![Hacker GIF](https://media.tenor.com/images/93e57191b3a50f0b118afc0af61c86d5/tenor.gif)
-
 ## Hello World! Welcome to my technology space. 👋 My name is Matheus Pinheiro
 
 🌱 I am currently studying to become a Computer Technician. In this course, I am learning about networks and infrastructure, operating systems, and development.
@@ -56,7 +54,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheuspoliveiraa&theme=dark" alt="matheuspoliveiraa"/>
 </div>
 
-
+![Hacker GIF](https://media.giphy.com/media/GY6Zmupsc3ilQbsjbL/giphy.gif)
 
 
 
