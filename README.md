@@ -49,13 +49,6 @@ Sou apaixonado por tecnologia e estou trilhando meu caminho no mundo da infraest
 
 ---
 
-### 🚀 Projetos em Destaque
-
-- [Relógio em PHP](https://github.com/matheuspoliveiraa/relogio-php) – Um relógio funcional usando HTML, CSS e PHP.
-- [Blog das Divas Pop](https://github.com/matheuspoliveiraa/blog-divas-pop) – Blog com visual personalizado e recursos interativos.
-
----
-
 ### 🎮 Hobbies e Interesses
 
 [![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://www.xbox.com)
