@@ -49,6 +49,12 @@ Sou apaixonado por tecnologia e estou trilhando meu caminho no mundo da infraest
 
 ---
 
+### 🚀 Projetos em Destaque
+
+- [Página de curiosidades](https://kingslayerjr1.wordpress.com/) – Uma página criada por wordpress.
+
+---
+
 ### 🎮 Hobbies e Interesses
 
 [![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://www.xbox.com)
