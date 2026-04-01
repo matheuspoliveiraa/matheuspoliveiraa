@@ -1,12 +1,6 @@
 ## 👋 Matheus Oliveira
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=26&duration=6000&color=FF0033&center=true&vCenter=true&width=700&lines=Inicializando+sistema...)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=26&duration=6000&color=FFD700&center=true&vCenter=true&width=700&lines=Acessando+rede...)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=26&duration=6000&color=00FF00&center=true&vCenter=true&width=700&lines=Matheus+Oliveira+online)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=26&duration=6000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=24&duration=7000&color=00FF00&center=true&vCenter=true&width=800&lines=root@system:~$+Inicializando+sistema...;root@system:~$+Acessando+rede...;root@system:~$+Estabelecendo+conexão...;root@system:~$+Matheus+Oliveira+online;root@system:~$+Acesso+concedido;root@system:~$+Bem-vindo...)
 
 ---
 
