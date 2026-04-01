@@ -7,7 +7,7 @@
 <h1 align="center">🖤 Matheus Oliveira</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=24&duration=3500&color=00FF00&center=true&vCenter=true&width=700&lines=root@system:~$+Inicializando+sistema...;root@system:~$+Acessando+rede...;root@system:~$+Estabelecendo+conexão...;root@system:~$+Matheus+Oliveira+online;root@system:~$+Acesso+concedido;root@system:~$+Bem-vindo..." />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=24&duration=3500&color=00FF00&center=true&vCenter=true&width=700&lines=root@system:~$+Inicializando+sistema...;root@system:~$+Acessando+rede...;root@system:~$+Estabelecendo+conexão...;root@system:~$+Matheus+Oliveira+online;root@system:~$+Acesso+concedido;root@system:~$+Bem-vindo..." width="600" />
 </p>
 
 ---
