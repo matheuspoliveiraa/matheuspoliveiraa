@@ -2,6 +2,7 @@
   <img src="assets/wallpaper1.gif" width="800"/>
 </p>
 
+<br>
 
 <h1 align="center">🖤 Matheus Oliveira</h1>
 
