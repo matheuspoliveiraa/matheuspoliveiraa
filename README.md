@@ -80,10 +80,3 @@ Sou apaixonado por tecnologia e estou trilhando meu caminho no mundo da infraest
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-<!-- GIF discreto no rodapé -->
-<p align="center">
-  <img src="https://media.giphy.com/media/GY6Zmupsc3ilQbsjbL/giphy.gif" alt="Hacker GIF" width="200"/>
-</p>
