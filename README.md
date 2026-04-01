@@ -69,8 +69,6 @@ Sou apaixonado por tecnologia e estou trilhando meu caminho no mundo da infraest
 
 ### 📊 Estatísticas do GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspoliveiraa&layout=compact&theme=radical)](https://github.com/matheuspoliveiraa)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheuspoliveiraa&show_icons=true&theme=radical)  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheuspoliveiraa&theme=dark" alt="matheuspoliveiraa"/>
 
 ---
