@@ -51,7 +51,7 @@ Sou apaixonado por tecnologia e estou trilhando meu caminho no mundo da infraest
 
 ### 🚀 Projetos em Destaque
 
-- [Página de curiosidades](https://kingslayerjr1.wordpress.com/) – Uma página criada por wordpress.
+- [Página de curiosidades](https://matheuspoliveiraa.github.io/Orizon-Tech/) – Uma página criada por wordpress.
 
 ---
 
