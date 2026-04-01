@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/wallpaper.gif" width="800"/>
+</p>
+
+
 ## 🖤 Matheus Oliveira
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=24&duration=3500&color=00FF00&center=true&vCenter=true&width=800&lines=root@system:~$+Inicializando+sistema...;root@system:~$+Acessando+rede...;root@system:~$+Estabelecendo+conexão...;root@system:~$+Matheus+Oliveira+online;root@system:~$+Acesso+concedido;root@system:~$+Bem-vindo...)
