@@ -13,7 +13,11 @@
 ---
 
 💻 Técnico em formação | Redes • Sistemas • Código  
+
 🧬 Nem todo sistema pode ser controlado… alguns apenas observam.
+
+🎓 SENAC Tatuapé — Técnico em Informática  
+🌙 Turma 02/24 • Período noturno
 
 ---
 
