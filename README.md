@@ -1,6 +1,6 @@
 ## 👋 Matheus Oliveira
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=25&duration=2500&color=00FFAA&center=true&vCenter=true&width=600&lines=Nem+todo+sistema+pode+ser+controlado...;Alguns+apenas+observam.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=26&duration=2000&color=FF0033&center=true&vCenter=true&width=700&lines=Inicializando+sistema...;Acessando+rede...;Matheus+Oliveira+online;Bem-vindo+ao+meu+GitHub)
 
 ---
 
